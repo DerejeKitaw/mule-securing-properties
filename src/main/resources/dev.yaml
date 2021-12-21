@@ -1,0 +1,8 @@
+http: 
+    port: "8081"
+    path: "![Ah8IN6lOBJg=]"
+db: 
+    host: "localhost"
+    port: "3306"
+    user: "root"
+    password: "![D0JZU6yYl7BjyolHnkiyd2O7K1T3vRKL]"  
